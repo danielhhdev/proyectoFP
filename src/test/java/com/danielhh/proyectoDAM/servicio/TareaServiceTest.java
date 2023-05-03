@@ -40,7 +40,7 @@ public class TareaServiceTest {
      * The Tarea servicio.
      */
     @InjectMocks
-    private ITareaServicio tareaServicio;
+    private TareaServicio tareaServicio;
 
     /**
      * The Tarea repositorio.
